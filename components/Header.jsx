@@ -22,7 +22,7 @@ const Header = () => {
             <Image src={dariaheader} className='rounded-xl' height='500' width='500'/>
             <div className='flex items-center justify-center w-full pt-[30px]'>
               <BsArrowReturnRight size={30}/>
-              <p className='px-[10px] button text-xl'>Work with me today</p>
+              <p className='px-[10px] text-xl hvr-grow'>Work with me today</p>
             </div>
           </div>
         </div>

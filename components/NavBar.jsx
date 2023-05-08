@@ -46,7 +46,7 @@ import React, {useState, useEffect } from 'react'
                 <Link href='./'><h1 className='ml-3 p-4 text-3xl font-semibold' id='logo'>DARIA PAACH</h1></Link>
             <div>
                 <ul className='mr-10 hidden md:flex text-xl'>
-                    <Link href='./'><li className='ml-10 text-md hover:ease-in duration-200 transform-none hoverbutton px-3 py-1'>HOME</li></Link>
+                    <Link href='/'><li className='ml-10 text-md hover:ease-in duration-200 transform-none hoverbutton px-3 py-1'>HOME</li></Link>
                     <li className='ml-10 text-md px-3 py-1'>ME</li>
                     <li className='ml-10 text-md px-3 py-1'>WORK</li>
                     {/*<Link href='./extra'><li className='ml-10 text-md hover:scale-75 ease-in duration-200 transform-none"'>EXTRA</li></Link>*/}
